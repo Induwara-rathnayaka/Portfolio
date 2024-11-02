@@ -1,0 +1,24 @@
+.header{
+    background-color: black;
+    color: white;
+    font-size: medium;
+    letter-spacing: 5px;
+    padding: 20px;
+}
+
+.header a{
+    text-decoration: none;
+    margin-left: 100px;
+    color: white;
+}
+
+.header a:hover{
+    color: aqua;
+}
+
+.footer p{
+    background-color: black;
+    letter-spacing: 50px;
+    color: antiquewhite;
+    text-align: center;
+}
