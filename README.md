@@ -1,4 +1,4 @@
 # My Portfolio Website
 
-## 🌐 Open Website
-[Click here to view](./index.html)
+## 🚀 Live Demo
+(https://github.com/Induwara-rathnayaka/Portfolio.git)
