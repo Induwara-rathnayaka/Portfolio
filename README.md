@@ -1,4 +1,4 @@
 # My Portfolio Website
 
 ## 🚀 Live Demo
-(https://github.com/Induwara-rathnayaka/Portfolio.git)
+[https://your-username.github.io/repository-name/](https://Induwara-rathnayaka.github.io/Portfolio/)
